@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vector310
+- 👀 I’m a UX designer
+- 🌱 I’m currently learning Python
